@@ -97,5 +97,11 @@ module.exports = [
   'setPassportDataErrors',
 
   'setGameScore',
-  'getGameHighScores'
+  'getGameHighScores',
+
+  'setMessageReaction',
+  'deleteMessages',
+  'forwardMessages',
+  'copyMessages',
+  'getUserChatBoosts'
 ];
