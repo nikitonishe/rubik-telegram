@@ -103,5 +103,6 @@ module.exports = [
   'deleteMessages',
   'forwardMessages',
   'copyMessages',
-  'getUserChatBoosts'
+  'getUserChatBoosts',
+  'sendPaidMedia'
 ];
